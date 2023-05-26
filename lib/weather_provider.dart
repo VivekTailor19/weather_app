@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:weather_app/weather_api.dart';
-import 'package:weather_app/weather_model.dart';
+import 'package:weather_app/model/weather_model.dart';
+
+import 'model/citiesModel.dart';
 
 class WeatherProvider extends ChangeNotifier
 {
@@ -8,4 +10,12 @@ class WeatherProvider extends ChangeNotifier
   async {
     return await Weather_API.weather_api.get_weather_api();
   }
+
+  List<CityModel> cities = [
+
+  ];
+
+
+
 }
+

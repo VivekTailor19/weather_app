@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:sizer/sizer.dart';
-import 'package:weather_app/homescreen.dart';
+import 'package:weather_app/screen/homescreen.dart';
 import 'package:weather_app/weather_provider.dart';
 
 void main() {
@@ -26,9 +26,13 @@ void main() {
 
 //    6e2a97e08f38f6d24bc52bc3f1a5c97a
 
-// lat long
-//  weather main, description,
-//  main  temp,pressure, humidity
-// wind speed
+//  lat
+//  long
+//  name location
+//  weather main name, description types,
+//  main  temp = C, pressure = hPa, humidity = %
+//  wind speed m/s
 //
+
+// speed  humidity  pressure
 
