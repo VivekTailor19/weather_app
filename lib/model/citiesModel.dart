@@ -1,7 +1,6 @@
 class CityModel
 {
-  double? lat,long;
-  String? cityname;
+  String? lat,long, cityname;
 
   CityModel({this.lat, this.long,this.cityname});
 
