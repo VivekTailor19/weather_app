@@ -8,9 +8,9 @@ import 'package:weather_app/weather_provider.dart';
 
 void main() {
   runApp(
-      DevicePreview(
-        enabled: !kReleaseMode,
-        builder: (context) =>
+      // DevicePreview(
+      //   enabled: !kReleaseMode,
+      //   builder: (context) =>
     Sizer(
       builder: (context, orientation, deviceType) => MultiProvider(
         providers: [
@@ -24,7 +24,7 @@ void main() {
 
           },
         ),
-      ),
+      // ),
     ),),
   );
 }

@@ -70,7 +70,11 @@ class _HomeScreenState extends State<HomeScreen> {
 
                       Padding(
                         padding: EdgeInsets.symmetric(vertical: 15.sp),
-                        child: Image.asset("${weatherT!.selectimage}",height: 40.h,),
+                        child: Row(mainAxisAlignment: MainAxisAlignment.center,
+                          children: [
+                            Image.asset("${weatherT!.selectimage}",height: 35.h,),
+                          ],
+                        ),
                       ),
 
                       Text("It's ${weather.weather![0].description}",style: TextStyle(fontSize: 30.sp,fontWeight: FontWeight.w300,color: Colors.white30),),
