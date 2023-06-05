@@ -1,16 +1,21 @@
 # weather_app
 
-Weather App Using Flutter from OpenWeatherDatabase
+# Weather App Using Flutter from OpenWeatherDatabase
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<p>
+  <img src = "https://github.com/VivekTailor19/weather_app/assets/119835214/264f2cd4-2313-4f01-a6ab-6e8f4528914f" height = "550" width = "300">
+  <img src = "https://github.com/VivekTailor19/weather_app/assets/119835214/e9cd4792-c9bc-4100-ba87-bdf29c972392" height = "550" width = "300">
+  <img src = "https://github.com/VivekTailor19/weather_app/assets/119835214/8cbd619b-eb4a-4c84-bf7b-bbe26e5cc1de" height = "550" width = "300">
+    <img src = "https://github.com/VivekTailor19/weather_app/assets/119835214/cbb50c7c-11c9-4d14-bcd8-b7df2803aabb" height = "550" width = "300">
+    <img src = "https://github.com/VivekTailor19/weather_app/assets/119835214/12cfb439-11dd-4429-91fa-d4353fb3afc7" height = "550" width = "300">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
