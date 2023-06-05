@@ -50,7 +50,8 @@ class _HomeScreenState extends State<HomeScreen> {
                           DropdownButton(
                             icon: Icon(Icons.expand_more_rounded,size: 15.sp,color: Colors.white54,),
                             underline: Container(),
-                            dropdownColor: Colors.transparent,
+                            //dropdownColor: Colors.transparent,
+                            dropdownColor: Color(0xff0B0C1E),
                             alignment: Alignment.center,
 
                             items:
